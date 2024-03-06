@@ -1,26 +1,26 @@
-GroundStudio Jade M1
+GroundStudio Tiny416
 ====================================
-![JadeM1](https://github.com/GroundStudio/Jade_M1/assets/77836107/a749d6a3-8643-4140-8c8d-1e7e4f3687f9)
+![Tiny416-top-bg-blk](https://github.com/GroundStudio/Tiny416/assets/77836107/1e3ea4d8-9745-4257-8586-e4bdf8c9a3a3)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/2714-groundstudio-tiny-416.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-ATMEGA2560 based development board with 256kBytes of In-System Self-Programmable Flash program memory, 4kBytes EEPROM, 8kBytes Internal SRAM, 15 PWM Channels, 70 Digital Pins including 16 ADC Pins with 10 bit Resolution and HT42B534 for USB communication.
+Breakout board for ATtiny416 chip with 4kB Flash, 256B SRAM, 128B EEPROM, 17x GPIO pins, 12x ADC pins and 2x I2C_3V3 connectors.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/Jade_M1/tree/main/Documentation) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio/Jade_M1/tree/main/Hardware) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/Tiny416/tree/main/Documentation) -- Pinout.
+* [/Hardware](https://github.com/GroundStudio/Tiny416/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
 *(Not all tags shown)*
 
-- [REV 1.0.0]
+- [REV 0.0.2]
 
 License
 -------------------
