@@ -30,4 +30,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow!
 
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000027.html)   
+   
+[![certification-mark-RO000027-wide](https://github.com/GroundStudio/Tiny416/assets/77836107/5f212a25-1218-411b-b477-22dbe4b9d792)
+](https://certification.oshwa.org/ro000027.html)
+
 
